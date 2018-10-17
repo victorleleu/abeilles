@@ -51,12 +51,11 @@ background : #000000;
 font-size: 120%;
 }
 
-
-
 h1 {
   text-align: center;
   font-family: Notable;
   color: #ffffff;
+
 }
 
 h1:hover
@@ -77,4 +76,18 @@ a:hover
 img{
 display: flex;
 padding: 1em;
+}
+
+.main-content {
+  color : #fff;
+  display: flex;
+  justify-content: center;
+margin-top: 6em;
+margin-left: 22em;
+
+}
+
+.content-text{
+font-family: Abril Fatface;
+  margin-right: 3em;
 }
