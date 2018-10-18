@@ -60,6 +60,7 @@ h1 {
 
 h1:hover
 {color: rgb(255,216, 0);
+
 }
 
 a{
@@ -76,6 +77,7 @@ a:hover
 img{
 display: flex;
 padding: 1em;
+
 }
 
 .main-content {
@@ -90,4 +92,30 @@ margin-left: 22em;
 .content-text{
 font-family: Abril Fatface;
   margin-right: 3em;
+}
+
+.goutte{
+  margin-left: 35em;
+
+}
+
+footer{
+  width: 72em;
+  height: 5em;
+  background-color: rgb(0,0,0);
+font-family: Notable;
+text-align: center;
+margin-left: 2em;
+color: rgb(255,255,255);
+
+}
+
+.logo {
+  margin-left: 40em;
+  margin-top: -70px;
+}
+.logo2{
+  margin-left: 32em;
+  margin-top: -80px;
+
 }
